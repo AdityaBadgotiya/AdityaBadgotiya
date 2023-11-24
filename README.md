@@ -1,3 +1,4 @@
+![MasterHead](https://raw.githubusercontent.com/AdityaBadgotiya/AdityaBadgotiya/main/header.png)
 <h1 align="center">Hi 👋, I'm Aditya Badgotiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -20,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityabadgotiya&show_icons=true&locale=en&layout=compact" alt="adityabadgotiya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityabadgotiya&show_icons=true&locale=en" alt="adityabadgotiya" /></p>
+
+
